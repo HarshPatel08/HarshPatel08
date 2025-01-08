@@ -1,4 +1,4 @@
-### Hi there, I'm Harsh 👋
+### Hi there, I'm Harsh Patel, An Engineering Student
 
 I will be updating my GitHub more in the near future
 
