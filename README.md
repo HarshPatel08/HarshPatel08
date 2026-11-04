@@ -1,5 +1,17 @@
-### Hi there, I'm Harsh Patel, A Software Engineering Student at Mcmaster University
+## Harsh Patel
 
-I'm a Software Engineering student at McMaster University with interests in software development, data systems, embedded systems, and automotive technology.
+Software Engineering @ McMaster University · **Seeking a May 2027 co-op (4, 8, 12, or 16 months)**
 
-My experience includes full-stack web development, data processing, telemetry analysis, and embedded software through personal projects and Formula Electric. I enjoy building systems that collect, process, and visualize data, as well as developing software that interacts with real-world hardware.
+### What I'm working on
+- 🏎️ **MAC Formula Electric** (Software & Controls)
+- 💻 **Pyralume** (Software Developer)
+- 🔧 **Telemetry Pipeline** (Current Personal Project In Progress)
+
+### Stack
+**Languages:** C, C++, Python, Java, TypeScript, JavaScript, SQL
+**Frameworks:** React, Next.js, Node.js, Express
+**Data:** PostgreSQL, MongoDB
+**Embedded:** CAN, ATmega328P, custom PCB design
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/harsh-patel-014362333/) · harshpatel2208@gmail.com
